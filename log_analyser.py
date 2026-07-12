@@ -15,7 +15,7 @@ def analyse_log(file_path):
     print("   By Priety Pandey | github.com/Priety-Pandey")
     print("=" * 50)
 
-    # File padhna
+    # File 
     with open(file_path, "r") as f:
         lines = f.readlines()
 
@@ -32,7 +32,7 @@ def analyse_log(file_path):
             counts["ERROR"] += 1
             errors.append(line)
 
-    # Summary print karo
+    # Summary print 
     print(f"\n📄 File: {file_path}")
     print(f"📊 Total Lines: {total_lines}")
     print(f"\n--- LOG SUMMARY ---")
@@ -52,13 +52,13 @@ def analyse_log(file_path):
 
     print(f"📉 Error Rate: {error_pct:.1f}%")
 
-    # Errors dikhao
+    # Errors 
     if errors:
         print(f"\n--- ERRORS FOUND ---")
         for e in errors:
             print(f"  ❌ {e}")
 
-    # Warnings dikhao
+    # Warnings 
     if warnings:
         print(f"\n--- WARNINGS FOUND ---")
         for w in warnings:
@@ -68,5 +68,5 @@ def analyse_log(file_path):
     print(f"✅ Analysis complete — {datetime.datetime.now()}")
     print("=" * 50)
 
-# Run karo
+# Run 
 analyse_log("sample.log")
