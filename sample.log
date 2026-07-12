@@ -1,0 +1,15 @@
+2025-07-12 08:01:23 INFO Application started successfully
+2025-07-12 08:02:11 INFO User login successful - user_id=101
+2025-07-12 08:03:45 WARNING High memory usage detected - 78%
+2025-07-12 08:04:10 ERROR Database connection failed - timeout
+2025-07-12 08:05:33 INFO Health check passed
+2025-07-12 08:06:21 ERROR Disk I/O error on /dev/sda1
+2025-07-12 08:07:15 WARNING CPU usage spike - 91%
+2025-07-12 08:08:44 INFO Backup completed successfully
+2025-07-12 08:09:02 ERROR Service OpsRamp-agent not responding
+2025-07-12 08:10:30 INFO Monitoring resumed after reconnect
+2025-07-12 08:11:55 WARNING Retry attempt 3 of 5 - API timeout
+2025-07-12 08:12:40 ERROR Failed to push metrics to Dynatrace
+2025-07-12 08:13:22 INFO Alert cleared - CPU back to normal
+2025-07-12 08:14:05 WARNING Low disk space - 85% used
+2025-07-12 08:15:18 INFO Scheduled maintenance window started
