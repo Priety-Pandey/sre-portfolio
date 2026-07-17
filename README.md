@@ -13,6 +13,7 @@
 | 01 | Log File Analyser | Python · Log Analysis · SRE | ✅ Done |
 | 02 | System Health Reporter | Python · psutil · SRE | ✅ Done |
 | 03 | Uptime Monitor | Python · SLI · SLO | ✅ Done |
+| 04 | Alert Noise Reducer | Python · AIOps · SRE | ✅ Done |
 ---
 
 ## 🔗 Connect
