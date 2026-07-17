@@ -11,7 +11,7 @@
 | # | Project | Skills | Status |
 |---|---------|--------|--------|
 | 01 | Log File Analyser | Python · Log Analysis · SRE | ✅ Done |
-| 02 | System Health Reporter | Python · psutil | 🔄 Next |
+| 02 | System Health Reporter | Python · psutil · SRE | ✅ Done |
 | 03 | Uptime Monitor | Python · SLI | ⏳ Soon |
 
 ---
